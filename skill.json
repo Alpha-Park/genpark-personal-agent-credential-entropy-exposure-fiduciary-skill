@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-credential-entropy-exposure-fiduciary-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Credential Entropy Exposure Fiduciary - Zero-dependency Shannon-NIST bit entropy calculator, GPU keyspace brute-force cracking time estimator, and k-anonymity hash prefix privacy auditor.",
+  "tools": [
+    "calculate_credential_bit_entropy_and_cracking_time",
+    "audit_credential_reuse_and_blast_radius",
+    "generate_k_anonymity_privacy_hash_prefix"
+  ]
+}
